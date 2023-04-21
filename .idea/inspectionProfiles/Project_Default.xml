@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AssertEqualsBetweenInconvertibleTypes" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ConstantConditions" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="true" />
+      <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+    </inspection_tool>
+    <inspection_tool class="ConstantJUnitAssertArgument" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ConstantValueMerged" />
+    <inspection_tool class="DataFlowIssueMerged" />
+    <inspection_tool class="DuplicateBooleanBranch" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="IfMayBeConditional" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JUnit5MalformedNestedClass" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JUnit5MalformedParameterized" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JUnit5MalformedRepeated" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="MalformedRegex" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="MalformedXPath" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="MisorderedAssertEqualsParameters" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="MultipleTypedDeclaration" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="MultipleVariablesInDeclarationMerged" />
+    <inspection_tool class="NullabilityAnnotations" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ObjectEqualsNull" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RedundantStringOperation" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="Reformat" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ReplaceSingleLineLet" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="StringConstructor" enabled="true" level="ERROR" enabled_by_default="true">
+      <option name="ignoreSubstringArguments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="StringOperationCanBeSimplifiedMerged" />
+    <inspection_tool class="UnnecessaryConditionalExpression" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryEnumModifier" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryInterfaceModifier" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="VerifyFormattedMessage" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
